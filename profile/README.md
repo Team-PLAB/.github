@@ -16,7 +16,7 @@
 > 현재는 실습실 대여 시스템 v3를 개발하고 있습니다.
 
 ## Member
-**성홍제** - Web Front-End | <a href="https://github.com/806gw" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+**성홍제** - Web Front-End | <a href="https://github.com/hongjeeeee" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 **최성욱** - Web Front-End | <a href="https://github.com/seongwook11" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
