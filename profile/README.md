@@ -18,7 +18,7 @@
 ## Member
 **성홍제** - Web Front-End | <a href="https://github.com/806gw" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-**최성욱** - Web Front-End | <a href="https://github.com/choiseongwook11" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+**최성욱** - Web Front-End | <a href="https://github.com/seongwook11" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 **김승환** - Back-End | <a href="https://github.com/silofn523" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>   
 
